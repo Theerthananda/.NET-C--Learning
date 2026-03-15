@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "D:\\.NET\\CollegePrograms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA949F7-6309-E62C-00F3-9D0305CD2F81}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA949F7-6309-E62C-00F3-9D0305CD2F81}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\collegeprograms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\collegeprograms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{4AA949F7-6309-E62C-00F3-9D0305CD2F81}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\collegeprograms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4AA949F7-6309-E62C-00F3-9D0305CD2F81}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\collegeprograms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\switchdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\switchdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\multiplydivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\multiplydivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\prepostdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\prepostdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\explicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\explicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\implicitdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\implicitdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\castdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\castdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\testconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\testconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\stringconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\stringconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\diffvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB604B04-42AC-416D-9493-781C3ADC286F}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\diffvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA949F7-6309-E62C-00F3-9D0305CD2F81}|CollegePrograms\\CollegePrograms.csproj|d:\\.net\\collegeprograms\\collegeprograms\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA949F7-6309-E62C-00F3-9D0305CD2F81}|CollegePrograms\\CollegePrograms.csproj|solutionrelative:collegeprograms\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -73,85 +33,7 @@
               "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\CollegePrograms.csproj",
               "RelativeToolTip": "CollegePrograms\\CollegePrograms.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-11T12:49:24.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SwitchDemo.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\SwitchDemo.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\SwitchDemo.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\SwitchDemo.cs",
-              "RelativeToolTip": "CollegePrograms\\SwitchDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:42:20.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PosNeg.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\PosNeg.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\PosNeg.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\PosNeg.cs",
-              "RelativeToolTip": "CollegePrograms\\PosNeg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:41:57.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MultiplyDivide.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\MultiplyDivide.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\MultiplyDivide.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\MultiplyDivide.cs",
-              "RelativeToolTip": "CollegePrograms\\MultiplyDivide.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:41:27.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PrePostDemo.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\PrePostDemo.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\PrePostDemo.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\PrePostDemo.cs",
-              "RelativeToolTip": "CollegePrograms\\PrePostDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:41:05.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Explicit.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Explicit.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\Explicit.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Explicit.cs",
-              "RelativeToolTip": "CollegePrograms\\Explicit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:40:36.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ImplicitDemo.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\ImplicitDemo.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\ImplicitDemo.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\ImplicitDemo.cs",
-              "RelativeToolTip": "CollegePrograms\\ImplicitDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:39:50.399Z",
+              "WhenOpened": "2026-03-15T15:56:34.4Z",
               "EditorCaption": ""
             },
             {
@@ -162,74 +44,22 @@
               "RelativeDocumentMoniker": "CollegePrograms\\Box.cs",
               "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Box.cs",
               "RelativeToolTip": "CollegePrograms\\Box.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:39:25.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CastDemo.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\CastDemo.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\CastDemo.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\CastDemo.cs",
-              "RelativeToolTip": "CollegePrograms\\CastDemo.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:38:56.471Z",
+              "WhenOpened": "2026-03-15T15:56:23.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Program.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\Program.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Program.cs*",
-              "RelativeToolTip": "CollegePrograms\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Title": "Reverse.cs",
+              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Reverse.cs",
+              "RelativeDocumentMoniker": "CollegePrograms\\Reverse.cs",
+              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\Reverse.cs",
+              "RelativeToolTip": "CollegePrograms\\Reverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:35:06.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TestConst.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\TestConst.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\TestConst.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\TestConst.cs",
-              "RelativeToolTip": "CollegePrograms\\TestConst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:38:27.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DiffVAr.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\DiffVAr.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\DiffVAr.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\DiffVAr.cs",
-              "RelativeToolTip": "CollegePrograms\\DiffVAr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:37:33.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StringConversion.cs",
-              "DocumentMoniker": "D:\\.NET\\CollegePrograms\\CollegePrograms\\StringConversion.cs",
-              "RelativeDocumentMoniker": "CollegePrograms\\StringConversion.cs",
-              "ToolTip": "D:\\.NET\\CollegePrograms\\CollegePrograms\\StringConversion.cs",
-              "RelativeToolTip": "CollegePrograms\\StringConversion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:36:41.423Z",
+              "WhenOpened": "2026-03-15T15:56:14.151Z",
               "EditorCaption": ""
             }
           ]

@@ -7,6 +7,7 @@ D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.Genera
 D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.AssemblyInfoInputs.cache
 D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.AssemblyInfo.cs
 D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.csproj.CoreCompileInputs.cache
+D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.sourcelink.json
 D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.dll
 D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\refint\CollegePrograms.dll
 D:\.NET\CollegePrograms\CollegePrograms\obj\Debug\net10.0\CollegePrograms.pdb

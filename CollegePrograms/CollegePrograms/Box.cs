@@ -2,7 +2,7 @@
 
 class Box
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int i = 10;
         object obj;
